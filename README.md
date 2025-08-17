@@ -20,8 +20,8 @@ Analyze the **world population dataset** to understand population growth trends,
   - Population distribution by continent (2022)  
 - Tools: **Python, Pandas, Matplotlib, Seaborn**
 
-👉 Notebook: [`Assignment1.ipynb`](Assignment1.ipynb)
-
+- Notebook: [`Assignment1.ipynb`](Assignment1.ipynb)
+- Dataset:[`world_population.csv`](world_population.csv)
 ---
 
 ## Assignment 2 (Titanic Dataset Analysis)
@@ -39,8 +39,8 @@ Perform data cleaning and exploratory data analysis on the Titanic dataset.
 - Visualized results using **Matplotlib & Seaborn**  
 - Tools: **Python, Pandas, Matplotlib, Seaborn**
 
-👉 Notebook: [`Assignment2.ipynb`](Assignment2.ipynb)
-
+- Notebook: [`Assignment2.ipynb`](Assignment2.ipynb)
+- Dataset:[`Titanic-Dataset.csv`](Titanic-Dataset.csv)
 ---
 
 ## Assignment 3 (Bank Marketing Dataset)  
@@ -61,8 +61,8 @@ Predict customer subscription to term deposits using the Bank Marketing dataset.
 - Couldn’t fully conclude the model, but gained workflow understanding  
 - Tools: **Python, Pandas, Seaborn, Matplotlib, Scikit-learn**
 
-👉 Notebook: [`Assignment3.ipynb`](Assignment3.ipynb)
-
+- Notebook: [`Assignment3.ipynb`](Assignment3.ipynb)
+- Dataset:[`bank-additional-full.xls`](bank-additional-full.xls)
 ---
 
 ## Assignment 4 (Traffic Collisions Dataset) 
@@ -79,11 +79,11 @@ Analyze traffic collision data and attempt predictive modeling using K-Nearest N
 - Couldn’t fully conclude the model, but gained exposure to ML workflows  
 - Tools: **Python, Pandas, Matplotlib, Seaborn, Folium, Scikit-learn**
 
-👉 Notebook: [`Assignment4.ipynb`](Assignment4.ipynb)
-
+- Notebook: [`Assignment4.ipynb`](Assignment4.ipynb)
+- Dataset:[`Collisions.csv.zip`](Collisions.csv.zip)
 ---
 
-## 🚀 Skills Learned & Improved  
+## Skills Learned & Improved  
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Data Visualization (Matplotlib, Seaborn, Folium)  
@@ -92,7 +92,7 @@ Analyze traffic collision data and attempt predictive modeling using K-Nearest N
 
 ---
 
-## 🔗 How to Run the Notebooks  
+## How to Run the Notebooks  
 1. Clone this repo or download the `.ipynb` files.  
 2. Open in **Jupyter Notebook** or **Google Colab**.  
 3. Run all cells sequentially.  
@@ -100,4 +100,4 @@ Analyze traffic collision data and attempt predictive modeling using K-Nearest N
 
 ---
 
-✨ This repository reflects my learning journey with **Skillcraft Internship** and my commitment to improving in **Data Science and Machine Learning** step by step.
+This repository reflects my learning journey with **Skillcraft Internship** and my commitment to improving in **Data Science and Machine Learning** step by step.
